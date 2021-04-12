@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680597994687",
+    "project_id": "percvrecommerce",
+    "storage_bucket": "percvrecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680597994687:android:81c116b49dcacc670d5a0a",
+        "android_client_info": {
+          "package_name": "com.example.percvrecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680597994687-4h08adc11ohbis93n3rq1ftl21ulkp5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByeQibhbYdoz-r7TgTkoIvpV3f71LdUrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680597994687-4h08adc11ohbis93n3rq1ftl21ulkp5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
